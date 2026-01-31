@@ -1,0 +1,21 @@
+#flex-containerA{
+    display: flex;
+    flex:1;
+    background-color: rgb(166, 167, 164);
+    border: 5px solid black;
+    width: 600px;
+    height: fit-content;
+}
+.div-A{
+    width: 200px;
+    background-color: rgb(211, 71, 71);
+}
+.div-B{
+    width: 200px;
+    background-color: rgb(199, 250, 59);
+}
+.div-C{
+    width: 100px;
+    background-color: rgb(29, 35, 126);
+    color: whitesmoke;
+}
