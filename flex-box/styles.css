@@ -1,3 +1,6 @@
+*{
+    text-align: center;
+}
 #flex-containerA{
     display: flex;
     flex:1;
@@ -5,17 +8,21 @@
     border: 5px solid black;
     width: 600px;
     height: fit-content;
+    margin: 0 auto;
 }
 .div-A{
     width: 200px;
+    height: 100px;
     background-color: rgb(211, 71, 71);
 }
 .div-B{
     width: 200px;
+    height: 100px;
     background-color: rgb(199, 250, 59);
 }
 .div-C{
     width: 100px;
+    height: 100px;
     background-color: rgb(29, 35, 126);
-    color: whitesmoke;
+    color: white;
 }
